@@ -1,0 +1,24 @@
+{
+  "name": "cs602hw1",
+  "version": "1.0.0",
+  "description": "Assignment for CS602\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D1 \u001b[3~\u001b[3~\u001b[2~for CS602",
+  "main": "employeeEmitter.js",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sammyfrw/hw1cs602.git"
+  },
+  "author": "sammyfrw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sammyfrw/hw1cs602/issues"
+  },
+  "homepage": "https://github.com/sammyfrw/hw1cs602#readme"
+}
